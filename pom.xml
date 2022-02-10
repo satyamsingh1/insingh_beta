@@ -14,7 +14,7 @@
 	</repositories>
 	<properties>
 		<springframework.version>4.3.5.RELEASE</springframework.version>
-		<hibernate.version>5.2.10.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 		<log4j.version>1.2.17</log4j.version>
 		<mail.version>1.4.1</mail.version>
 		<slf4j.version>1.7.21</slf4j.version>
