@@ -18,7 +18,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<mail.version>1.4.1</mail.version>
 		<slf4j.version>1.7.21</slf4j.version>
-		<aws.s3.version>1.11.158</aws.s3.version>
+		<aws.s3.version>1.12.261</aws.s3.version>
 		<jersey.version>2.25</jersey.version>
 	</properties>
 	<dependencies>
